@@ -10,17 +10,6 @@ The goal of this project is to practice **frontend development skills** by recre
 
 ---
 
-## 🚀 Features
-
-* 📱 WhatsApp Web-like layout
-* 💬 Chat interface design
-* 🧑‍🤝‍🧑 Sidebar with contacts list
-* 🔍 Search bar UI
-* 🟢 Status indicators
-* 🎨 Clean and responsive design
-
----
-
 ## 🛠️ Technologies Used
 
 * HTML5
